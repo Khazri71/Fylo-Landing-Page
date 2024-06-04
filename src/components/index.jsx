@@ -1,0 +1,10 @@
+export { default as Header } from "./Header";
+export { default as Landing } from "./Landing";
+export { default as Features } from "./Features";
+export { default as Feature } from "./Feature";
+export { default as Curvy } from "./Curvy";
+export { default as Productive } from "./Productive";
+export { default as Testimonials } from "./Testimonials";
+export { default as Testimonial } from "./Testimonial";
+export { default as Started } from "./Started";
+export { default as Footer } from "./Footer";
